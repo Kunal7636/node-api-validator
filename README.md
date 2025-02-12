@@ -13,12 +13,12 @@ This is a **Node.js API** that validates card decks based on specific rules. It 
 
 ## 🚀 Installation & Setup
 
-### **1️⃣ Clone the Repository**
+### 1️⃣ Clone the Repository**
 git clone https://github.com/Kunal7636/node-api-validator.git
 
-### **2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 npm install
-### ** 3️⃣ Start the Server
+### 3️⃣ Start the Server
 node server.js
 
 ##API Endpoints
