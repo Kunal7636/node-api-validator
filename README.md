@@ -1,7 +1,7 @@
 # node-api-validator
 # 🎴 Node.js Card Validation API
 
-This is a **Node.js API** that validates card decks based on specific rules. It processes a list of cards, checks for validity, logs the validation process, and supports concurrent requests using **request locking and clustering**.
+This is a **Node.js API** that validates card decks based on specific rules. It processes a list of cards, checks for validity, logs the validation process, and supports concurrent requests.
 
 ---
 
