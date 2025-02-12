@@ -21,7 +21,7 @@ npm install
 ### 3️⃣ Start the Server
 node server.js
 
-##API Endpoints
+## API Endpoints
 1️⃣ Validate Cards
 ➡️ POST /validate-cards
 Validates a list of cards and returns valid and invalid cards.
